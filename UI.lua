@@ -186,7 +186,7 @@ function Luxt1.CreateWindow(libName, logoId)
     usename.Size = UDim2.new(0, 110, 0, 16)
     usename.ZIndex = 2
     usename.Font = Enum.Font.GothamSemibold
-    usename.Text = _G.GAME
+    usename.Text = "Roy X Hub"
     usename.TextColor3 = Color3.fromRGB(103, 172, 161)
     usename.TextSize = 12.000
     usename.TextWrapped = true
